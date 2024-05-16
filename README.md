@@ -37,5 +37,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darksoulsy&show_icons=true&locale=en&layout=compact" alt="darksoulsy" /></p>
+<p><img align="left" src="https://leetcode.card.workers.dev/DarkSoul-?theme=dark&font=baloo&extension=null" alt="darksoulsy" /></p>
 
